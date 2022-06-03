@@ -1,0 +1,10 @@
+_________________ CSIT AIRLINES ___________________
+___________________ TICKET ________________________
+____________________________________________________
+Customer ID:211
+Customer Name:Ram
+Customer Gender:Male
+		Description
+
+Destination		Dubai
+Flight Cost: 		90000
