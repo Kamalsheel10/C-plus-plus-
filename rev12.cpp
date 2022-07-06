@@ -15,7 +15,6 @@ public:
     {
         return a + b;
     }
-    friend class cal2;
 };
 class cal2
 {
